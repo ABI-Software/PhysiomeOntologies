@@ -1,0 +1,139 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html>
+<head>
+<title>Plugins Ontology</title>
+<meta http-equiv='content-type' content='text/html;charset=UTF-8'>
+<link rel='stylesheet' href='css/default.css' type='text/css' />
+</head>
+
+<body>
+<h1>Plugins Ontology</h1>
+
+<div class='owlselector'>
+<h3>Plugins: Entities (5)</h3>
+
+<div class='codebox' id='ID4187518566488468592'>
+<ul>
+<li class="asserted"><a href="#CTKPlugin" class='Class' title="http://ns.p.hysio.me/plugin.owl#CTKPlugin">'CTK&nbsp;Plugin'</a></li>
+<li class="asserted"><a href="#MAPPlugin" class='Class' title="http://ns.p.hysio.me/plugin.owl#MAPPlugin">'MAP&nbsp;Plugin'</a></li>
+<li class="asserted"><a href="#Interactive" class='Annotation Property' title="http://ns.p.hysio.me/plugins.owl#Interactive">Interactive</a></li>
+<li class="asserted"><a href="#NonInteractive" class='Annotation Property' title="http://ns.p.hysio.me/plugins.owl#NonInteractive">NonInteractive</a></li>
+<li class="asserted"><a href="#PluginType" class='Class' title="http://ns.p.hysio.me/plugin.owl#PluginType">PluginType</a></li>
+</ul>
+</div>
+
+</div><!-- owlselector -->
+
+<div class='owlselector'>
+<h3>Plugins: Classes (3)</h3>
+
+<div class='codebox' id='ID4187519266488468592'>
+<ul>
+<li class="asserted"><a href="#CTKPlugin" class='Class' title="http://ns.p.hysio.me/plugin.owl#CTKPlugin">'CTK&nbsp;Plugin'</a></li>
+<li class="asserted"><a href="#MAPPlugin" class='Class' title="http://ns.p.hysio.me/plugin.owl#MAPPlugin">'MAP&nbsp;Plugin'</a></li>
+<li class="asserted"><a href="#PluginType" class='Class' title="http://ns.p.hysio.me/plugin.owl#PluginType">PluginType</a></li>
+</ul>
+</div>
+
+</div><!-- owlselector -->
+
+<div class='owlselector'>
+<h3>Plugins: Annotation properties (2)</h3>
+
+<div class='codebox' id='ID1318489208335495529'>
+<ul>
+<li class="asserted"><a href="#Interactive" class='Annotation Property' title="http://ns.p.hysio.me/plugins.owl#Interactive">Interactive</a></li>
+<li class="asserted"><a href="#NonInteractive" class='Annotation Property' title="http://ns.p.hysio.me/plugins.owl#NonInteractive">NonInteractive</a></li>
+</ul>
+</div>
+
+</div><!-- owlselector -->
+
+<h2>Classes</h2>
+<div class='summary' id='CTKPlugin'><h3>Class: 'CTK Plugin'</h3>
+
+<div id='annotations_(3)'>
+<h5>Annotations (3)</h5>
+<div class='codebox'>
+<ul>
+<li class="asserted"><a href="http://www.w3.org/2000/01/rdf-schema#comment" class='Annotation Property' title="http://www.w3.org/2000/01/rdf-schema#comment">rdfs:comment</a> <span class='literal'>"The class of CTK plugins."</span></li>
+<li class="asserted"><a href="http://www.w3.org/2000/01/rdf-schema#isDefinedBy" class='Annotation Property' title="http://www.w3.org/2000/01/rdf-schema#isDefinedBy">rdfs:isDefinedBy</a> http://ns.p.hysio.me/plugin.owl#<b>CTKPlugin</b> 
+</li>
+<li class="asserted"><a href="http://www.w3.org/2000/01/rdf-schema#label" class='Annotation Property' title="http://www.w3.org/2000/01/rdf-schema#label">rdfs:label</a> <span class='literal'>"CTK Plugin"</span></li>
+</ul>
+</div>
+</div><!-- annotations (3) -->
+
+
+<div id='superclasses_(1)'>
+<h5>Superclasses (1)</h5>
+<div class='codebox'>
+<ul>
+<li class="asserted"><a href="#PluginType" class='Class' title="http://ns.p.hysio.me/plugin.owl#PluginType">PluginType</a></li>
+</ul>
+</div>
+</div><!-- superclasses (1) -->
+
+</div> <!-- summary -->
+
+<div class='summary' id='MAPPlugin'><h3>Class: 'MAP Plugin'</h3>
+
+<div id='annotations_(3)'>
+<h5>Annotations (3)</h5>
+<div class='codebox'>
+<ul>
+<li class="asserted"><a href="http://www.w3.org/2000/01/rdf-schema#comment" class='Annotation Property' title="http://www.w3.org/2000/01/rdf-schema#comment">rdfs:comment</a> <span class='literal'>"The class of MAP plugins."</span></li>
+<li class="asserted"><a href="http://www.w3.org/2000/01/rdf-schema#isDefinedBy" class='Annotation Property' title="http://www.w3.org/2000/01/rdf-schema#isDefinedBy">rdfs:isDefinedBy</a> http://ns.p.hysio.me/plugin.owl#<b>MAPPlugin</b> 
+</li>
+<li class="asserted"><a href="http://www.w3.org/2000/01/rdf-schema#label" class='Annotation Property' title="http://www.w3.org/2000/01/rdf-schema#label">rdfs:label</a> <span class='literal'>"MAP Plugin"</span></li>
+</ul>
+</div>
+</div><!-- annotations (3) -->
+
+
+<div id='superclasses_(1)'>
+<h5>Superclasses (1)</h5>
+<div class='codebox'>
+<ul>
+<li class="asserted"><a href="#PluginType" class='Class' title="http://ns.p.hysio.me/plugin.owl#PluginType">PluginType</a></li>
+</ul>
+</div>
+</div><!-- superclasses (1) -->
+
+</div> <!-- summary -->
+
+<div class='summary' id='PluginType'><h3>Class: PluginType</h3>
+
+<div id='annotations_(3)'>
+<h5>Annotations (3)</h5>
+<div class='codebox'>
+<ul>
+<li class="asserted"><a href="http://www.w3.org/2000/01/rdf-schema#comment" class='Annotation Property' title="http://www.w3.org/2000/01/rdf-schema#comment">rdfs:comment</a> <span class='literal'>"The class of plugin types."</span></li>
+<li class="asserted"><a href="http://www.w3.org/2000/01/rdf-schema#isDefinedBy" class='Annotation Property' title="http://www.w3.org/2000/01/rdf-schema#isDefinedBy">rdfs:isDefinedBy</a> http://ns.p.hysio.me/plugin.owl#<b>PluginType</b> 
+</li>
+<li class="asserted"><a href="http://www.w3.org/2000/01/rdf-schema#label" class='Annotation Property' title="http://www.w3.org/2000/01/rdf-schema#label">rdfs:label</a> <span class='literal'>"PluginType"</span></li>
+</ul>
+</div>
+</div><!-- annotations (3) -->
+
+
+<div id='superclasses_(1)'>
+<h5>Superclasses (1)</h5>
+<div class='codebox'>
+<ul>
+<li class="asserted"><a href="http://www.w3.org/2000/01/rdf-schema#Class" class='Class' title="http://www.w3.org/2000/01/rdf-schema#Class">rdfs:Class</a></li>
+</ul>
+</div>
+</div><!-- superclasses (1) -->
+
+</div> <!-- summary -->
+
+<h2>Annotation Properties</h2>
+<div class='summary' id='Interactive'><h3>Annotation Property: Interactive</h3>
+</div> <!-- summary -->
+
+<div class='summary' id='NonInteractive'><h3>Annotation Property: NonInteractive</h3>
+</div> <!-- summary -->
+
+</body>
+</html>
