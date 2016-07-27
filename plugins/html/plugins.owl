@@ -57,7 +57,7 @@
 <div class='codebox'>
 <ul>
 <li class="asserted"><a href="http://www.w3.org/2000/01/rdf-schema#comment" class='Annotation Property' title="http://www.w3.org/2000/01/rdf-schema#comment">rdfs:comment</a> <span class='literal'>"The class of CTK plugins."</span></li>
-<li class="asserted"><a href="http://www.w3.org/2000/01/rdf-schema#isDefinedBy" class='Annotation Property' title="http://www.w3.org/2000/01/rdf-schema#isDefinedBy">rdfs:isDefinedBy</a> http://ns.p.hysio.me/plugin.owl#<b>CTKPlugin</b> 
+<li class="asserted"><a href="http://www.w3.org/2000/01/rdf-schema#isDefinedBy" class='Annotation Property' title="http://www.w3.org/2000/01/rdf-schema#isDefinedBy">rdfs:isDefinedBy</a> http://ns.p.hysio.me/plugins.owl#<b>CTKPlugin</b> 
 </li>
 <li class="asserted"><a href="http://www.w3.org/2000/01/rdf-schema#label" class='Annotation Property' title="http://www.w3.org/2000/01/rdf-schema#label">rdfs:label</a> <span class='literal'>"CTK Plugin"</span></li>
 </ul>
@@ -83,7 +83,7 @@
 <div class='codebox'>
 <ul>
 <li class="asserted"><a href="http://www.w3.org/2000/01/rdf-schema#comment" class='Annotation Property' title="http://www.w3.org/2000/01/rdf-schema#comment">rdfs:comment</a> <span class='literal'>"The class of MAP plugins."</span></li>
-<li class="asserted"><a href="http://www.w3.org/2000/01/rdf-schema#isDefinedBy" class='Annotation Property' title="http://www.w3.org/2000/01/rdf-schema#isDefinedBy">rdfs:isDefinedBy</a> http://ns.p.hysio.me/plugin.owl#<b>MAPPlugin</b> 
+<li class="asserted"><a href="http://www.w3.org/2000/01/rdf-schema#isDefinedBy" class='Annotation Property' title="http://www.w3.org/2000/01/rdf-schema#isDefinedBy">rdfs:isDefinedBy</a> http://ns.p.hysio.me/plugins.owl#<b>MAPPlugin</b> 
 </li>
 <li class="asserted"><a href="http://www.w3.org/2000/01/rdf-schema#label" class='Annotation Property' title="http://www.w3.org/2000/01/rdf-schema#label">rdfs:label</a> <span class='literal'>"MAP Plugin"</span></li>
 </ul>
@@ -109,7 +109,7 @@
 <div class='codebox'>
 <ul>
 <li class="asserted"><a href="http://www.w3.org/2000/01/rdf-schema#comment" class='Annotation Property' title="http://www.w3.org/2000/01/rdf-schema#comment">rdfs:comment</a> <span class='literal'>"The class of plugin types."</span></li>
-<li class="asserted"><a href="http://www.w3.org/2000/01/rdf-schema#isDefinedBy" class='Annotation Property' title="http://www.w3.org/2000/01/rdf-schema#isDefinedBy">rdfs:isDefinedBy</a> http://ns.p.hysio.me/plugin.owl#<b>PluginType</b> 
+<li class="asserted"><a href="http://www.w3.org/2000/01/rdf-schema#isDefinedBy" class='Annotation Property' title="http://www.w3.org/2000/01/rdf-schema#isDefinedBy">rdfs:isDefinedBy</a> http://ns.p.hysio.me/plugins.owl#<b>PluginType</b> 
 </li>
 <li class="asserted"><a href="http://www.w3.org/2000/01/rdf-schema#label" class='Annotation Property' title="http://www.w3.org/2000/01/rdf-schema#label">rdfs:label</a> <span class='literal'>"PluginType"</span></li>
 </ul>
