@@ -14,11 +14,11 @@
 
 <div class='codebox' id='ID4187518566488468592'>
 <ul>
-<li class="asserted"><a href="#CTKPlugin" class='Class' title="http://ns.p.hysio.me/plugin.owl#CTKPlugin">'CTK&nbsp;Plugin'</a></li>
-<li class="asserted"><a href="#MAPPlugin" class='Class' title="http://ns.p.hysio.me/plugin.owl#MAPPlugin">'MAP&nbsp;Plugin'</a></li>
+<li class="asserted"><a href="#CTKPlugin" class='Class' title="http://ns.p.hysio.me/plugins.owl#CTKPlugin">'CTK&nbsp;Plugin'</a></li>
+<li class="asserted"><a href="#MAPPlugin" class='Class' title="http://ns.p.hysio.me/plugins.owl#MAPPlugin">'MAP&nbsp;Plugin'</a></li>
 <li class="asserted"><a href="#Interactive" class='Annotation Property' title="http://ns.p.hysio.me/plugins.owl#Interactive">Interactive</a></li>
 <li class="asserted"><a href="#NonInteractive" class='Annotation Property' title="http://ns.p.hysio.me/plugins.owl#NonInteractive">NonInteractive</a></li>
-<li class="asserted"><a href="#PluginType" class='Class' title="http://ns.p.hysio.me/plugin.owl#PluginType">PluginType</a></li>
+<li class="asserted"><a href="#PluginType" class='Class' title="http://ns.p.hysio.me/plugins.owl#PluginType">PluginType</a></li>
 </ul>
 </div>
 
@@ -29,9 +29,9 @@
 
 <div class='codebox' id='ID4187519266488468592'>
 <ul>
-<li class="asserted"><a href="#CTKPlugin" class='Class' title="http://ns.p.hysio.me/plugin.owl#CTKPlugin">'CTK&nbsp;Plugin'</a></li>
-<li class="asserted"><a href="#MAPPlugin" class='Class' title="http://ns.p.hysio.me/plugin.owl#MAPPlugin">'MAP&nbsp;Plugin'</a></li>
-<li class="asserted"><a href="#PluginType" class='Class' title="http://ns.p.hysio.me/plugin.owl#PluginType">PluginType</a></li>
+<li class="asserted"><a href="#CTKPlugin" class='Class' title="http://ns.p.hysio.me/plugins.owl#CTKPlugin">'CTK&nbsp;Plugin'</a></li>
+<li class="asserted"><a href="#MAPPlugin" class='Class' title="http://ns.p.hysio.me/plugins.owl#MAPPlugin">'MAP&nbsp;Plugin'</a></li>
+<li class="asserted"><a href="#PluginType" class='Class' title="http://ns.p.hysio.me/plugins.owl#PluginType">PluginType</a></li>
 </ul>
 </div>
 
@@ -69,7 +69,7 @@
 <h5>Superclasses (1)</h5>
 <div class='codebox'>
 <ul>
-<li class="asserted"><a href="#PluginType" class='Class' title="http://ns.p.hysio.me/plugin.owl#PluginType">PluginType</a></li>
+<li class="asserted"><a href="#PluginType" class='Class' title="http://ns.p.hysio.me/plugins.owl#PluginType">PluginType</a></li>
 </ul>
 </div>
 </div><!-- superclasses (1) -->
@@ -95,7 +95,7 @@
 <h5>Superclasses (1)</h5>
 <div class='codebox'>
 <ul>
-<li class="asserted"><a href="#PluginType" class='Class' title="http://ns.p.hysio.me/plugin.owl#PluginType">PluginType</a></li>
+<li class="asserted"><a href="#PluginType" class='Class' title="http://ns.p.hysio.me/plugins.owl#PluginType">PluginType</a></li>
 </ul>
 </div>
 </div><!-- superclasses (1) -->
